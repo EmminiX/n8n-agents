@@ -1,6 +1,6 @@
 aiofiles==24.1.0
 aiohappyeyeballs==2.4.4
-aiohttp==3.11.11
+aiohttp==3.12.14
 aiosignal==1.3.2
 aiosqlite==0.20.0
 altair==5.5.0
@@ -35,8 +35,8 @@ gotrue==2.11.1
 greenlet==3.1.1
 griffe==1.5.4
 groq==0.15.0
-h11==0.14.0
-h2==4.1.0
+h11==0.16.0
+h2==4.3.0
 hpack==4.0.0
 httpcore==1.0.7
 httpx==0.27.2
@@ -45,7 +45,7 @@ hyperframe==6.0.1
 idna==3.10
 importlib_metadata==8.5.0
 iniconfig==2.0.0
-Jinja2==3.1.5
+Jinja2==3.1.6
 jiter==0.8.2
 joblib==1.4.2
 jsonpath-python==1.0.6
@@ -80,7 +80,7 @@ playwright==1.49.1
 pluggy==1.5.0
 postgrest==0.19.1
 propcache==0.2.1
-protobuf==5.29.3
+protobuf==5.29.5
 psutil==6.1.1
 pyarrow==18.1.0
 pyasn1==0.6.1
@@ -104,7 +104,7 @@ rank-bm25==0.2.2
 realtime==2.1.0
 referencing==0.35.1
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 rich==13.9.4
 rpds-py==0.22.3
 rsa==4.9
@@ -123,12 +123,12 @@ tf-playwright-stealth==1.1.0
 tiktoken==0.8.0
 tokenizers==0.21.0
 toml==0.10.2
-tornado==6.4.2
+tornado==6.5
 tqdm==4.67.1
 typing-inspect==0.9.0
 typing_extensions==4.12.2
 tzdata==2024.2
-urllib3==2.3.0
+urllib3==2.6.0
 watchdog==6.0.0
 websockets==13.1
 wrapt==1.17.1
