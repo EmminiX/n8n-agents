@@ -4,9 +4,9 @@ fastapi==0.115.7
 fastapi-cli==0.0.7
 google-generativeai==0.8.4
 openai==1.60.2
-protobuf==5.29.3
+protobuf==5.29.6
 pydantic==2.10.6
-pydantic_ai==0.0.20
+pydantic_ai==1.62.0
 python-dotenv==1.0.1
 Requests==2.32.3
 supabase==2.12.0
